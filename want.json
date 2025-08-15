@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "coordinate": "115.892151,28.676493",
+      "updateTime": "2024-06-01",
+      "title": "江西庐山",
+      "cover": "https://example.com/images/lushan-mountain.jpg",
+      "content": "中国著名的避暑胜地，以雄、奇、险、秀闻名于世。",
+      "tags": "山水,避暑,自然景观"
+    },
+    {
+      "coordinate": "120.153576,30.287459",
+      "updateTime": "2024-06-01",
+      "title": "杭州西湖",
+      "cover": "https://example.com/images/hangzhou-westlake.jpg",
+      "content": "杭州的标志性景点，有着'人间天堂'的美誉。",
+      "tags": "湖泊,园林,历史文化"
+    },
+    {
+      "coordinate": "103.823557,36.058039",
+      "updateTime": "2024-06-01",
+      "title": "甘肃莫高窟",
+      "cover": "https://example.com/images/mogao-caves.jpg",
+      "content": "世界文化遗产，有着丰富的壁画和彩塑艺术。",
+      "tags": "艺术,佛教,历史古迹"
+    },
+    {
+      "coordinate": "94.737447,29.644154",
+      "updateTime": "2024-06-01",
+      "title": "西藏布达拉宫",
+      "cover": "https://example.com/images/potala-palace.jpg",
+      "content": "世界上海拔最高的宫殿，藏传佛教的圣地。",
+      "tags": "宗教,建筑,高原"
+    },
+    {
+      "coordinate": "117.200983,39.084158",
+      "updateTime": "2024-06-01",
+      "title": "天津之眼",
+      "cover": "https://example.com/images/tianjin-eye.jpg",
+      "content": "世界上唯一建在桥上的摩天轮，可以俯瞰天津全貌。",
+      "tags": "城市地标,观景,浪漫"
+    }
+  ]
+}
