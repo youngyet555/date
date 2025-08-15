@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "coordinate": "116.397428,39.90923",
+      "updateTime": "2024-01-15",
+      "title": "北京故宫博物院",
+      "cover": "https://example.com/images/beijing-palace.jpg",
+      "content": "明清两代的皇家宫殿，世界上现存规模最大、保存最为完整的木质结构古建筑之一。",
+      "tags": "历史,文化,古迹"
+    },
+    {
+      "coordinate": "121.472644,31.231706",
+      "updateTime": "2024-02-20",
+      "title": "上海外滩",
+      "cover": "https://example.com/images/shanghai-bund.jpg",
+      "content": "上海的标志性景观，展现了上海的历史变迁和现代风貌。",
+      "tags": "城市,夜景,现代建筑"
+    },
+    {
+      "coordinate": "119.29527,26.080763",
+      "updateTime": "2024-03-05",
+      "title": "厦门鼓浪屿",
+      "cover": "https://example.com/images/xiamen-gulangyu.jpg",
+      "content": "有着'海上花园'之称的小岛，充满了文艺气息和异国风情建筑。",
+      "tags": "海岛,文艺,旅游"
+    },
+    {
+      "coordinate": "104.065735,30.659462",
+      "updateTime": "2024-04-10",
+      "title": "成都大熊猫基地",
+      "cover": "https://example.com/images/chengdu-panda.jpg",
+      "content": "世界著名的大熊猫科研繁育基地，近距离观赏可爱的大熊猫。",
+      "tags": "动物,自然,亲子"
+    },
+    {
+      "coordinate": "113.264385,23.12911",
+      "updateTime": "2024-05-01",
+      "title": "广州塔",
+      "cover": "https://example.com/images/guangzhou-tower.jpg",
+      "content": "昵称小蛮腰，是广州的新地标，可俯瞰整个广州城市风光。",
+      "tags": "建筑,观景,城市地标"
+    }
+  ]
+}
